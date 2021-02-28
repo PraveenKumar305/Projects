@@ -1,5 +1,5 @@
 # Watch me Build
 
 ## projects
-*     [Watermarking pdf](Watermarking%20pdf)
-*     [pokedex](pokedex/ "pokedex")
+* [Watermarking pdf](Watermarking%20pdf/ "GPC")
+* [pokedex](pokedex/ "pokedex")
