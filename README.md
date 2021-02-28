@@ -1,4 +1,5 @@
 # Watch me Build
+
+## projects
 *     [Watermarking pdf](Watermarking%20pdf)
-*     [Digit Recognizer](Projects/Digit%20Recognizer/)
-*     [LeetCode](LeetCode/ "LeetCode")
+*     [pokedex](pokedex/ "pokedex")
