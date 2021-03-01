@@ -4,3 +4,4 @@
 
 ## projects
 * [Watermarking pdf](Watermarking%20pdf/)
+* [Automated email sender](Automated%20email%20sender/)
