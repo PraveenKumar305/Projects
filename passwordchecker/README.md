@@ -6,4 +6,4 @@
   > in command line just type
   * python3 Filename passwordname
 
-Click [here](https://haveibeenpwned.com/Passwords) to check if your email has ever been hacked
+Click [here](https://haveibeenpwned.com/Passwords) to check if password has ever been hacked
