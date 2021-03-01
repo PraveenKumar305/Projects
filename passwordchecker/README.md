@@ -4,4 +4,4 @@
   and SHA, ( Secure Hash Algorithms ) a cryptographic hash function function
   
   > in command line just type
-  python3 filename passwordname
+  * python3 filename passwordname
