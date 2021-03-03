@@ -1,7 +1,7 @@
 # Watch me Build
 Some cool projects Built by me
 
-<p align="center"><img src="https://github.com/PraveenKumar305/Projects/tree/main/Media/bob-the-builder.png" height="300"></p>
+<p align="center"><img src="https://github.com/PraveenKumar305/Projects/Media/bob-the-builder.png" height="300"></p>
 
 ## projects
 * [passwordchecker](passwordchecker/ "passwordchecker")
