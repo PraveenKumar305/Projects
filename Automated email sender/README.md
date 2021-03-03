@@ -1,3 +1,3 @@
 # Automated email sender
-* built using Pthon with smttplib module.
+* built using Pthon with smtplib module.
 * Useful in sending mass emails at once.
