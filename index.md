@@ -7,5 +7,3 @@ Some cool projects Built by me
 * [passwordchecker](passwordchecker/ "passwordchecker")
 * [Watermarking pdf](Watermarking%20pdf/)
 * [Automated email sender](Automated%20email%20sender/)
-
-
