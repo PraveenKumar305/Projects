@@ -1,4 +1,4 @@
-# Passwordchecker project
+# Passwordchecker Project
  Check if your password has ever been hacked and how many times it's been hacked.
  * This project is built using python with requsts, hashlib library,
   and SHA, ( Secure Hash Algorithms ) a cryptographic hash function.
