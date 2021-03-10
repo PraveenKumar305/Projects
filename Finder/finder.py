@@ -1,4 +1,4 @@
-# run this file in command  prompt it will not wor in linux.
+# run this file in command  prompt, it will not work in linux.
 
 import re
 import os
