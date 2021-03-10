@@ -4,6 +4,7 @@ Some cool projects Built by me
 <p align="center"><img src="Media/bob-the-builder.png" height="300"></p>
 
 ## projects
+* [Finder](Finder/ "Finder")
 * [passwordchecker](passwordchecker/ "passwordchecker")
 * [web scrapping](web%20scrapping/)
 * [Watermarking pdf](Watermarking%20pdf/)
