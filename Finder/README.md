@@ -8,4 +8,6 @@ this project is built using Python **argparse**, **threading**, **pickle**, **re
 * for the file to seach in less time the disk need to be indexed(improves the speed of data retrieval operations on a disk) as a whole, then individually.
 
 > To create index run in command prompt:
-> python filename -c
+```bash 
+   python filename -c
+```
