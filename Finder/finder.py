@@ -1,4 +1,4 @@
-# run this file in command  prompt it will not wor in linux.
+# run this file in command  prompt, it will not work in linux.
 
 import re
 import os
@@ -30,7 +30,7 @@ def creating_index(path):#creating index of particluar path
 def Create_index():#creating index of total disk
     list1_th=[]
     for d in get_drives():
-        print(d)
+         print(d)
         creating_index(d+"\\")
         th1=Thread(target=creating_index, args=(d+"\\",))
         list1_th.append(th1)
