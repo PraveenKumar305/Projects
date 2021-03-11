@@ -6,6 +6,7 @@ Some cool projects Built by me
 ## projects
 * [Finder](Finder/ "Finder")
 * [passwordchecker](passwordchecker/ "passwordchecker")
+* [fdate](Fdate/ "Fdate")
 * [web scrapping](web%20scrapping/)
 * [Watermarking pdf](Watermarking%20pdf/)
 * [Automated email sender](Automated%20email%20sender/)
