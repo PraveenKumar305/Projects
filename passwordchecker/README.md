@@ -5,7 +5,7 @@
   
   => in command line go to root dirctory and type :
    ```bash
-    python3 Filename passwordname
+    python3 (pythonFilename) password
   ```
 
 OR Click [here](https://haveibeenpwned.com/Passwords) to check if password has ever been hacked.
