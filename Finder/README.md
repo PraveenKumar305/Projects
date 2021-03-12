@@ -13,5 +13,5 @@ this project is built using Python **argparse**, **threading**, **pickle**, **re
 ```
 > to find the file on your local machine:
 ```bash
-  python (pythonfile) filename
+  python (pythonfilename) filename
   ```
