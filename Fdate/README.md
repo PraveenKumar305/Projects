@@ -1,4 +1,4 @@
-# Fdate project
+# Fdate Project
 this project is built using Python **argparse**, **threading**, **pickle**, **regularexpression**, **os** modules.
 * the purpose of the project is to find any files on your system in **milliseconds** by date of creation or modification of files.
 * Optimized for time and speed.
