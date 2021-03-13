@@ -3,7 +3,7 @@ Some cool projects Built by me
 
 <p align="center"><img src="Media/bob-the-builder.png" height="300"></p>
 
-## projects
+## Projects
 * [Finder](Finder/ "Finder")
 * [passwordchecker](passwordchecker/ "passwordchecker")
 * [Fdate](Fdate/ "Fdate")
