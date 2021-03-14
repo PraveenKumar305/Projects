@@ -1,4 +1,4 @@
-# run this file in command  prompt, it will not work in linux.
+# When making the index of the disk run this file in command  prompt, it will not work in linux.
 import os
 import re
 import time 
